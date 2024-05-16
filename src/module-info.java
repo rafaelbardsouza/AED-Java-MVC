@@ -4,5 +4,5 @@
 /**
  * 
  */
-module aedJavaMvc {
+module t1aed {
 }
